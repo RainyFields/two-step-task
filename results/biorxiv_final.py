@@ -9,6 +9,7 @@ from PIL import Image
 from PIL import ImageDraw
 from PIL import ImageFont
 from helper import *
+import os
 
 from random import choice
 from time import sleep
